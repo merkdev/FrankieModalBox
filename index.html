@@ -140,7 +140,7 @@
     </section>
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
-    <script src="jquery.frankiemodalbox.min.js"></script>
+    <script src="jquery.frankieModalBox.min.js"></script>
 
     <script type="text/javascript">
         $(function() {
